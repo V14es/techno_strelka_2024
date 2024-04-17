@@ -1,0 +1,6 @@
+aiogram==3.4.1
+datasets==2.18.0
+tqdm==4.66.2
+transformers==4.39.3
+pyarrow==15.0.0
+asyncio==3.4.3
